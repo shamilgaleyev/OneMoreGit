@@ -3,5 +3,6 @@ public class First {
         for (int i = 0; i < 5; i++) {
             System.out.println("I am blessed");
         }
+        System.out.println("Amen");
     }
 }
